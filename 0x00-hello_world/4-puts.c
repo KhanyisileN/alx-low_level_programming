@@ -1,4 +1,4 @@
-#include <stdio.h
+#include <stdio.h>
 /**
  * main -a programme that prints line with puts function
  * Return: 0
