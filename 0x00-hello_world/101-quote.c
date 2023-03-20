@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - a C program that prints 
+ * main - a C program that prints
  * Return: (1)
  */
 int main(void)
