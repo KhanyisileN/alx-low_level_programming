@@ -13,7 +13,7 @@ int main(void)
 
 	for (i = 97; i < 123; i++)
 	{
-		while (i |= 101 && i |= 113)
+		while (i |= 101 && i 'l'= 113)
 		{
 			putchar(i);
 		}
