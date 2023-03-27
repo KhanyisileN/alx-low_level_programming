@@ -7,6 +7,7 @@
  */
 
 void _puts(char *str)
+/* str - string to be printed */
 
 {
 	for (; *str != '\0'; str++)
