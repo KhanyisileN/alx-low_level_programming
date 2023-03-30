@@ -5,7 +5,7 @@
  * @str: the string to be edited
  * Return: pointer to the edited string
  */
-char *cap_string(char *)
+char *cap_string(char *str)
 {
 	int index = 0;
 
